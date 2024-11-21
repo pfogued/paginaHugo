@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bienvenido a mi sitio Hugo on Hugo Site by Pablo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Bienvenido a mi sitio Hugo on Hugo Site by Pablo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown: Básico, Gráficos y Extendido</title>
+      <link>http://localhost:1313/markdown/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markdown/</guid>
+      <description>&lt;h1 id=&#34;introducción-a-markdown&#34;&gt;Introducción a Markdown&lt;/h1&gt;&#xA;&lt;p&gt;Markdown es un lenguaje de marcado ligero que permite crear contenido fácilmente formateado. Es usado comúnmente en blogs, documentación y plataformas como GitHub.&lt;/p&gt;&#xA;&lt;h2 id=&#34;markdown-básico&#34;&gt;Markdown Básico&lt;/h2&gt;&#xA;&lt;h3 id=&#34;encabezados&#34;&gt;Encabezados&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Título de nivel 1&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Título de nivel 2&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;### Título de nivel 3&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;**Negrita**, &lt;span style=&#34;font-style:italic&#34;&gt;_Cursiva_&lt;/span&gt;, &lt;span style=&#34;color:#f92672&#34;&gt;~~Tachado~~&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| Nombre   | Edad |&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;|----------|------|&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| Juan     | 30   |&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| María    | 25   |&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Módulo: Python para Principiantes</title>
+      <link>http://localhost:1313/phyton/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/phyton/</guid>
+      <description>&lt;h1 id=&#34;módulo-python-para-principiantes&#34;&gt;Módulo: Python para Principiantes&lt;/h1&gt;&#xA;&lt;p&gt;Este módulo cubre los fundamentos del lenguaje de programación Python.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contenido-del-módulo&#34;&gt;Contenido del Módulo&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-sintaxis-básica&#34;&gt;1. Sintaxis Básica&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Variables y tipos de datos&lt;/li&gt;&#xA;&lt;li&gt;Operaciones matemáticas&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-estructuras-de-control&#34;&gt;2. Estructuras de Control&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Condicionales (&lt;code&gt;if&lt;/code&gt;, &lt;code&gt;else&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Bucles (&lt;code&gt;for&lt;/code&gt;, &lt;code&gt;while&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-funciones&#34;&gt;3. Funciones&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Definición de funciones con &lt;code&gt;def&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Parámetros y valores de retorno&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Ejemplo de función en Python&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;saludo&lt;/span&gt;(nombre):&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hola, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;{&lt;/span&gt;nombre&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(saludo(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Mundo&amp;#34;&lt;/span&gt;))&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/imagenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/imagenes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

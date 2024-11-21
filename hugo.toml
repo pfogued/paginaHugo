@@ -1,0 +1,36 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Hugo Site by Pablo'
+theme = "arcana"
+# Configuración del menú
+[menu]
+
+   [[menu.main]]
+  identifier = "_index"
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "markdown"
+  name = "Markdown"
+  url = "/markdown/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "imagenes"
+  name = "Imágenes"
+  url = "/imagenes/"
+  weight = 3
+
+  [[menu.main]]
+  identifier = "canales"
+  name = "Canales de TV"
+  url = "/canales/"
+  weight = 4
+
+  [[menu.main]]
+  identifier = "phyton"
+  name = "Python"
+  url = "/phyton/"
+  weight = 5
